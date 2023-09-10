@@ -4,7 +4,7 @@ Create music by typing or clicking on letters with this interactive Drum-Music p
 
 ## Table of Contents
 
-- [Overview](#overview)
+- [Overview](#overview).
 - [Features](#features)
 - [Demo](#demo)
 - [Prerequisites](#prerequisites)
