@@ -38,23 +38,6 @@ Before you begin, ensure you have the following:
 - A modern web browser installed.
 - Text editor or code editor of your choice.
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/mehta1772/Drum-Music.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd Drum-Music
-   ```
-
-3. Open the `index.html` file in your web browser.
 
 ## Usage
 
